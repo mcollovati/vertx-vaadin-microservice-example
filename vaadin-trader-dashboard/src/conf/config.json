@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 8080
+  },
+  "vaadin": {
+    "compatibilityMode": "false",
+    "flowBasePackages": [
+      "io.vertx.workshop.dashboard"
+    ]
+  }
+}
